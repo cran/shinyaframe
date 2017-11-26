@@ -1,0 +1,13 @@
+dependencies:
+  - name: aframe
+    version: 0.7.1
+    src: htmlwidgets/lib/aframe
+    script: aframe.min.js
+  - name: gg-aframe
+    version: 0.2.3
+    src: htmlwidgets/lib
+    script: gg-aframe.min.js
+  - name: aframe-environment-component
+    version: 1.0.0
+    src: htmlwidgets/lib
+    script: aframe-environment-component.min.js
